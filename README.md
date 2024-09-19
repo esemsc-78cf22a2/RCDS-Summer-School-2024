@@ -1,4 +1,4 @@
-# RCDS Summer School 2023
+# RCDS Summer School 2024
 #### Imperial College London
 
 ---
