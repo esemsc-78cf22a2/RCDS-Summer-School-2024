@@ -8,7 +8,9 @@ Welcome to the [RCDS](https://www.imperial.ac.uk/students/academic-support/gradu
 
 <img src="RCDS_summer_school_overview.png" alt="schedule" width="600"/>
 
-We will use this [document](https://docs.google.com/document/d/1F0KwAudaHwi-E_zTldOAD_0bz4jzz6WJFt3h889yhNw/edit) to share links and other essential info. 
+We will use this [document](https://docs.google.com/document/d/1F0KwAudaHwi-E_zTldOAD_0bz4jzz6WJFt3h889yhNw/edit) to share links and other essential info.
+
+At the start of the course, please fill in this [Mentimeter survey](https://www.menti.com/al6qxrmpd3mt).
 
 The learning materials are organised by day in this repository. The lessons use Jupyter Notebooks that can be easily open in GitHub Codespaces (instructions in the next section). If you have some experience with Jupyter Notebooks, you can use your favourite application - just make sure that you have the required packages installed (these are listed in the file [requirements.txt](requirements.txt)). If the last sentence does not make sense, do not worry, it will at the end of the week.
 
