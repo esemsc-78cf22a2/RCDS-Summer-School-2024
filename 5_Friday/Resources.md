@@ -5,7 +5,7 @@ Here are some resources that you might find useful as starting points for your p
 
 ## Static Data
 
-* [DataHub](https://datahub.io/search)
+* [DataHub](https://datahub.io/collections)
 * [OpenML](https://www.openml.org)
 * [GapMinder](https://www.gapminder.org/data/)
 * [UCI machine learning repository](https://archive.ics.uci.edu)
